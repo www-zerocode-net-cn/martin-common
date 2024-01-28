@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <artifactId>martin</artifactId>
+        <groupId>com.java2e</groupId>
+        <version>1.0.8</version>
+    </parent>
+
+    <artifactId>martin-common</artifactId>
+    <version>1.0.8</version>
+    <packaging>pom</packaging>
+
+    <description>martin公共资源模块</description>
+
+    <modules>
+        <module>martin-common-bom</module>
+        <module>martin-common-core</module>
+        <module>martin-common-security</module>
+        <module>martin-common-swagger</module>
+        <module>martin-common-feign</module>
+        <module>martin-common-api</module>
+        <module>martin-common-log</module>
+        <module>martin-common-bean</module>
+        <module>martin-common-data</module>
+        <module>martin-common-message</module>
+        <module>martin-common-sentinel</module>
+        <module>martin-common-websocket</module>
+        <module>martin-common-oss</module>
+        <module>martin-common-social</module>
+        <module>martin-common-vip</module>
+    </modules>
+
+</project>

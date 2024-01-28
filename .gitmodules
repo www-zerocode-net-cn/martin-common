@@ -1,0 +1,45 @@
+[submodule "martin-common-api"]
+	path = martin-common-api
+	url = git@github.com:www-zerocode-net-cn/martin-common-api.git
+[submodule "martin-common-bean"]
+	path = martin-common-bean
+	url = git@github.com:www-zerocode-net-cn/martin-common-bean.git
+[submodule "martin-common-bom"]
+	path = martin-common-bom
+	url = git@github.com:www-zerocode-net-cn/martin-common-bom.git
+[submodule "martin-common-core"]
+	path = martin-common-core
+	url = git@github.com:www-zerocode-net-cn/martin-common-core.git
+[submodule "martin-common-data"]
+	path = martin-common-data
+	url = git@github.com:www-zerocode-net-cn/martin-common-data.git
+[submodule "martin-common-feign"]
+	path = martin-common-feign
+	url = git@github.com:www-zerocode-net-cn/martin-common-feign.git
+[submodule "martin-common-log"]
+	path = martin-common-log
+	url = git@github.com:www-zerocode-net-cn/martin-common-log.git
+[submodule "martin-common-message"]
+	path = martin-common-message
+	url = git@github.com:www-zerocode-net-cn/martin-common-message.git
+[submodule "martin-common-oss"]
+	path = martin-common-oss
+	url = git@github.com:www-zerocode-net-cn/martin-common-oss.git
+[submodule "martin-common-security"]
+	path = martin-common-security
+	url = git@github.com:www-zerocode-net-cn/martin-common-security.git
+[submodule "martin-common-sentinel"]
+	path = martin-common-sentinel
+	url = git@github.com:www-zerocode-net-cn/martin-common-sentinel.git
+[submodule "martin-common-social"]
+	path = martin-common-social
+	url = git@github.com:www-zerocode-net-cn/martin-common-social.git
+[submodule "martin-common-swagger"]
+	path = martin-common-swagger
+	url = git@github.com:www-zerocode-net-cn/martin-common-swagger.git
+[submodule "martin-common-vip"]
+	path = martin-common-vip
+	url = git@github.com:www-zerocode-net-cn/martin-common-vip.git
+[submodule "martin-common-websocket"]
+	path = martin-common-websocket
+	url = git@github.com:www-zerocode-net-cn/martin-common-websocket.git
